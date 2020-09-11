@@ -13,10 +13,11 @@ git clone https://github.com/a37tam/Wave-2.0.git
 cd Wave-2.0
 ```
 
-Create a virtual environment to manage all the dependencies listed in <code>requirements.txt</code>.
+Create a virtual environment to manage all the dependencies listed in <code>requirements.txt</code>. Activate it and install dependencies.
 
 ```
 python3 -m venv env
+source env/bin/activate
 pip3 install -r requirements.txt
 ```
 
@@ -24,6 +25,11 @@ Run the Python script.
 
 ```
 python3 main.py
+```
+
+Deactivate virtual environment.
+```
+deactivate
 ```
 
 ## Implementation
