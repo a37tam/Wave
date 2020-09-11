@@ -1,4 +1,4 @@
-# Wave-2.0
+# Wave
 
 A Python script which lets users control their cursor using hand gestures. [Take a look!](https://youtu.be/OOSNbBzDD1I)
 
@@ -9,8 +9,8 @@ A Python script which lets users control their cursor using hand gestures. [Take
 Clone and <code>cd</code> into the the repository.
 
 ```
-git clone https://github.com/a37tam/Wave-2.0.git
-cd Wave-2.0
+git clone https://github.com/a37tam/Wave.git
+cd Wave
 ```
 
 Create a virtual environment to manage all the dependencies listed in <code>requirements.txt</code>. Activate it and install dependencies.
