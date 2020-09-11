@@ -2,7 +2,7 @@
 
 A Python script which lets users control their cursor using hand gestures. [Take a look!](https://youtu.be/OOSNbBzDD1I)
 
-![](Images/hand-detection2.png)
+![](Images/hand-detection.png)
 
 ### Getting Started
 
