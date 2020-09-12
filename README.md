@@ -45,3 +45,15 @@ For each individual frame,
 5. Obtain the convex hull of the largest contour.
 6. From the convex hull, extract the total number of convexity defects and their coordinates.
 7. Based on these convexity defects, invoke the corresponding mouse event.
+
+### How to use Wave
+
+Move cursor: 2 fingers
+
+Left click: 3 fingers
+
+Right click: 4 fingers
+
+To exit the application: Press "q" when the application window has focus.
+
+**More features to come!**
